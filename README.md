@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @CryptoSextillionaire
-- Currently The Next Crypto Whale 🐳🐳
+- 👋 Hi, I’m nixon
+- i know lua and learning the neverlose api
